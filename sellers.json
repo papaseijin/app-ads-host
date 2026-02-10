@@ -1,7 +1,7 @@
 [
   {
     "seller_id": "pub-5825178717276997",
-    "seller_type": "PUBLISHER",
+    "is_confidential": false,
     "name": "Yuki Nagata",
     "domain": "papaseijin.com"
   }
